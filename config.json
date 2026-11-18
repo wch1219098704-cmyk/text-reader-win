@@ -1,0 +1,15 @@
+{
+  "engine": "auto",
+  "accent": 2,
+  "voice_en": "Microsoft Zira Desktop",
+  "voice_zh": "Microsoft Huihui Desktop",
+  "rate": 0,
+  "volume": 100,
+  "auto_lang": true,
+  "icon_size": 26,
+  "youdao_max_chars": 40,
+  "hotkey": "ctrl+alt+r",
+  "icon_timeout_ms": 6000,
+  "restore_clipboard": true,
+  "max_chars": 2000
+}
